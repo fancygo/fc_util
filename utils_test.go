@@ -1,4 +1,4 @@
-package fc_sys
+package fc_util
 
 import (
 	"testing"

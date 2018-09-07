@@ -1,4 +1,4 @@
-package fc_sys
+package fc_util
 
 func If(condition bool, trueVal, falseVal interface{}) interface{} {
 	if condition {
